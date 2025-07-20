@@ -9,4 +9,7 @@ Loaded the tranformed data to snowflake.
 Created gps data and status data as data streams through kafka producer.
 Cleaned and tranformed the sreamed datas.
 Loaded the tranformed stream data to snowflake.
-created the fact and dimension tables in snowflake.
+Created the fact and dimension tables in snowflake.
+Cridentials are not hardcoded.
+Fxception handling is done.
+Log file is created.
